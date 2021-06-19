@@ -7,3 +7,6 @@
 * LArry Plotter y el orden de unix
 * Larry Plotter y el misterio del hacker
 * Larry Plotter y los commits del la muerta
+
+
+**Diego Perez**
