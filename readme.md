@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker excepcional.
 
-**Diego**
+**Diego** Larry Plotter fan
 
